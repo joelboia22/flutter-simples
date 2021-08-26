@@ -22,4 +22,4 @@ Esse widget serve para obter a lista de ícones disponíveis para usso na classe
 
 
 #Observação final
-O código mostra apenas a mudança de temas se utilizando de alguns conceitos básicos da linguaguem Dart com framework Flutter.
+O código mostra apenas a mudança de temas se utilizando de alguns conceitos básicos da linguaguem Dart com framework Flutter...
