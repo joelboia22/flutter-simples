@@ -6,7 +6,7 @@ A new Flutter project.
 Um widget que não tem seu estado alterado.
 
 # StateFulWidget
-Um widget que tem seu estado alterado.
+Um widget que tem seu estado alterado...
 
 # MaterialApp
 Widget de conveniência que envolve outros widgets que normalmente são necessários para aplicativos Material Design (conjunto de diretrizes criado para padronizar todas as interfaces gráficas). 
